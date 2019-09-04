@@ -1,0 +1,1 @@
+  docker-compose exec redis_1 redis-cli $* 
